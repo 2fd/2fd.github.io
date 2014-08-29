@@ -49,10 +49,9 @@ table {
 /* LAYOUT STYLES */
 body {
   font-size: 15px;
-  line-height: 1.5; 
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  line-height: 1.5;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-weight: 400:
+  font-weight: 400;
   color: #fff;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
 }
