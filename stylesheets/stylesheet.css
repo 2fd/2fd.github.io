@@ -62,19 +62,19 @@ a {
 a:hover {
   color: #2268b2;
 }
-
+body {
+  color: #fff;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+}
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
 }
 
 header h1 {
   letter-spacing: -1px;
   font-size: 72px;
-  color: #fff;
   line-height: 1;
   margin-bottom: 0.2em;
   width: 540px;
@@ -96,7 +96,6 @@ header h2 {
 }
 
 #content-wrapper {
-  border-top: solid 1px #fff;
   padding-top: 30px;
 }
 
