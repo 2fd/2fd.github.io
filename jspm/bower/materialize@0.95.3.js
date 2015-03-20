@@ -1,0 +1,1 @@
+module.exports = require("bower:materialize@0.95.3/bin/materialize");

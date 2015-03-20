@@ -1,0 +1,30 @@
+{
+  "name": "2fd.github.io",
+  "version": "0.0.1",
+  "description": "Notas personales",
+  "main": "bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2fd/2fd.github.io.git"
+  },
+  "author": "Fede Ramirez <i@2fd.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2fd/2fd.github.io/issues"
+  },
+  "homepage": "https://github.com/2fd/2fd.github.io",
+  "jspm": {
+    "directories": {
+      "lib": "lib",
+      "packages": "jspm"
+    },
+    "dependencies": {
+      "css": "github:systemjs/plugin-css@^0.1.6",
+      "jquery": "github:components/jquery@^2.1.3",
+      "materialize": "bower:materialize@^0.95.3"
+    }
+  }
+}

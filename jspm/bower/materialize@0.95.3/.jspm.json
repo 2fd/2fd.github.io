@@ -1,0 +1,29 @@
+{
+  "name": "Materialize",
+  "description": "A modern responsive front-end framework based on Material Design",
+  "version": "0.95.3",
+  "keywords": [
+    "css",
+    "js",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "ux",
+    "material",
+    "design"
+  ],
+  "homepage": "https://github.com/Dogfalo/materialize",
+  "main": "bin/materialize.js",
+  "devDependencies": {},
+  "format": "global",
+  "registry": "bower",
+  "jspm": {
+    "registry": "bower"
+  },
+  "dependencies": {
+    "jquery": "jquery@*",
+    "css": "jspm:css@*"
+  }
+}
