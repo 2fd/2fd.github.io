@@ -2,7 +2,7 @@
   "name": "2fd.github.io",
   "description": "Notas personales",
   "version": "0.0.1",
-  "private": true
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/2fd/2fd.github.io.git"
